@@ -1,0 +1,11 @@
+C:\mdk0102\MathGame\MathGame\bin\Debug\prgoram 16.03.exe.config
+C:\mdk0102\MathGame\MathGame\bin\Debug\prgoram 16.03.exe
+C:\mdk0102\MathGame\MathGame\bin\Debug\prgoram 16.03.pdb
+C:\mdk0102\MathGame\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+C:\mdk0102\MathGame\MathGame\obj\Debug\MathGame.csproj.SuggestedBindingRedirects.cache
+C:\mdk0102\MathGame\MathGame\obj\Debug\MathGame._03.Form1.resources
+C:\mdk0102\MathGame\MathGame\obj\Debug\prgoram_16._03.Properties.Resources.resources
+C:\mdk0102\MathGame\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\mdk0102\MathGame\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\mdk0102\MathGame\MathGame\obj\Debug\prgoram 16.03.exe
+C:\mdk0102\MathGame\MathGame\obj\Debug\prgoram 16.03.pdb
